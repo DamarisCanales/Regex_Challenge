@@ -1,5 +1,5 @@
 ## Summary - The basic international phone number validation
-
+Regex is a tool used to search for particular sets of characters.  It could be numbers, letters words, special characters, or any combination of them. Through accurate programming and syntax, Regex expressions can be used to find any pattern of characters within a document from phone numbers to email addresses. While validation of phone numbers using regex can give a possibility to check the format of the phone number, it does not guarantee that the number exists.
 
 # Phone Number Regex
 
